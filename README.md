@@ -58,7 +58,7 @@
 <br><br><br>
 
 
-<h1>The fieldset element + CSS</h1>
+<h1>The fieldset element + CSS.</h1>
 
 <form action="/action_page.php">
  <fieldset>
